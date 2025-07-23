@@ -15,18 +15,19 @@
     {
       "title": "Personal Portfolio Website",
       "description": "A responsive personal website to showcase my skills and projects using Node.js, Express, and Handlebars.",
-      "link": "https://github.com/jinglinzhou/portfolio"
+      "link": "https://github.com/JinglinZhou99/Personal-Portfolio-Website"
     },
     {
-      "title": "Weather App",
-      "description": "A Node.js app that fetches real-time weather data from a public API and displays it in a clean UI.",
-      "link": "https://github.com/jinglinzhou/weather-app"
+      "title": "AI Resume Screening Tool",
+      "description": "An intelligent CV screening tool that leverages DeepSeek API to analyze and score large volumes of resumes based on job descriptions, providing alignment scores and detailed explanations.",
+      "link": "https://github.com/JinglinZhou99/CV_AIFilter"
     },
     {
-      "title": "Blog Platform",
-      "description": "A full-stack blog platform with post creation, deletion, and editing functionality.",
-      "link": "https://github.com/jinglinzhou/blog-platform"
+      "title": "Differentiated QoS Simulation in ns-3",
+      "description": "A network simulation project for CS621 that implements a base class for differentiated services in the ns-3 simulator, including Strict Priority Queuing (SPQ) and Deficit Round Robin (DRR) scheduling mechanisms. The simulation was validated with a 3-node topology and evaluated for fairness and throughput using multiple bulk data flows.",
+      "link": "https://github.com/JinglinZhou99/CS621Project2"
     }
   ]
 }
+
 
