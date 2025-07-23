@@ -1,0 +1,15 @@
+<h2 class="mb-4">My Projects</h2>
+<div class="row">
+  {{#each projects}}
+    <div class="col-md-6 mb-4">
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">{{title}}</h5>
+          <p class="card-text">{{description}}</p>
+          <a href="{{link}}" class="btn btn-primary" target="_blank">View Project</a>
+        </div>
+      </div>
+    </div>
+  {{/each}}
+</div>
+

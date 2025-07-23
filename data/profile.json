@@ -1,0 +1,32 @@
+{
+  "skills": [
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "Bootstrap",
+    "Git",
+    "Handlebars",
+    "HTML5",
+    "CSS3",
+    "Teamwork",
+    "Problem Solving"
+  ],
+  "projects": [
+    {
+      "title": "Personal Portfolio Website",
+      "description": "A responsive personal website to showcase my skills and projects using Node.js, Express, and Handlebars.",
+      "link": "https://github.com/jinglinzhou/portfolio"
+    },
+    {
+      "title": "Weather App",
+      "description": "A Node.js app that fetches real-time weather data from a public API and displays it in a clean UI.",
+      "link": "https://github.com/jinglinzhou/weather-app"
+    },
+    {
+      "title": "Blog Platform",
+      "description": "A full-stack blog platform with post creation, deletion, and editing functionality.",
+      "link": "https://github.com/jinglinzhou/blog-platform"
+    }
+  ]
+}
+
