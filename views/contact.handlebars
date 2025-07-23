@@ -1,18 +1,10 @@
-{{!-- views/contact.handlebars --}}
-<h1>Contact Me</h1>
-<form method="POST" action="/contact">
-  <div class="mb-3">
-    <label for="name" class="form-label">Name</label>
-    <input type="text" class="form-control" id="name" name="name" required>
+<!-- views/contact.handlebars -->
+<div class="container mt-5">
+  <h1 class="text-center mb-4">Contact Me</h1>
+  <div class="card p-4 shadow">
+    <p><strong>Name:</strong> Jinglin Zhou</p>
+    <p><strong>Email:</strong> zjacky788@gmail.com</p>
+    <p><strong>Phone:</strong> (530) 407-1209</p>
+    <p><strong>GitHub:</strong> <a href="https://github.com/JinglinZhou99" target="_blank">github.com/JinglinZhou99</a></p>
   </div>
-  <div class="mb-3">
-    <label for="email" class="form-label">Email address</label>
-    <input type="email" class="form-control" id="email" name="email" required>
-  </div>
-  <div class="mb-3">
-    <label for="message" class="form-label">Message</label>
-    <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
-  </div>
-  <button type="submit" class="btn btn-primary">Send</button>
-</form>
-
+</div>
